@@ -1,7 +1,8 @@
 # OperatorsOverloading
 
 In *Operators Overloading* folder you can find some very simple example of '+', '*' operators overloading using *Vectors*.
-
+#Keywords
+C# 6.0, .Net Framework 4.6, Microsoft Visual Studio.
 Below you can see the *Testing code*:
 
 **Inputs**
@@ -25,5 +26,4 @@ Console.WriteLine($"The sum of two vectors = {vectorProduct}.");
 
 
 
-#Keywords
-C# 6.0, .Net Framework 4.6, Microsoft Visual Studio.
+
