@@ -23,5 +23,7 @@ Console.WriteLine($"The sum of two vectors = {vectorProduct}.");
 
 
 
+
+
 #Keywords
 C# 6.0, .Net Framework 4.6, Microsoft Visual Studio.
