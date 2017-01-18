@@ -2,9 +2,9 @@
 
 In *Operators Overloading* folder you can find some very simple example of '+', '*' operators overloading using *Vectors*.
 
-**Using**
-**Inputs**
 Below you can see the *Testing code*:
+
+**Inputs**
 
 ```C#
 Vector vector1 = new Vector(9);
