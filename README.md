@@ -16,6 +16,7 @@ Console.WriteLine($"The sum of two vectors = {vectorProduct}.");
 ```
 
 ** Outputs**
+
 <img src="https://cloud.githubusercontent.com/assets/24455176/22054826/264ecfac-dd71-11e6-895a-45fcc07ddd5d.jpg" align="left"  />
 
 
